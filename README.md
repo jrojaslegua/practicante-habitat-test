@@ -1,5 +1,5 @@
-# Prueba Técnica - Practicante Cuantitativo de Inversiones (Back-end)
-La siguiente es una prueba para evaluar a los postulantes a programador **Back-end**.
+# Prueba Técnica - Practicante Cuantitativo de Inversiones
+La siguiente es una prueba para evaluar a los postulantes.
 
 ## INTRODUCCIÓN
 Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de Inversiones de _AFP Habitat_.
