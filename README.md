@@ -1,4 +1,4 @@
-# Prueba Técnica - Practicante Cuantitativo de Inversiones
+# Prueba Técnica - Practicante Cuantitativo de Inversiones (python)
 La siguiente es una prueba para evaluar a los postulantes.
 
 ## INTRODUCCIÓN
