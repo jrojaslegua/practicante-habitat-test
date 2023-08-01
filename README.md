@@ -1,8 +1,8 @@
-# Prueba Técnica - Programador (Back-end)
+# Prueba Técnica - Practicante Cuantitativo de Inversiones (Back-end)
 La siguiente es una prueba para evaluar a los postulantes a programador **Back-end**.
 
 ## INTRODUCCIÓN
-Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de Tecnología de _GCP Global_.
+Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de Inversiones de _AFP Habitat_.
 
 #### ¿Qué se busca evaluar?
 Principalmente los siguientes aspectos:
@@ -15,12 +15,12 @@ Principalmente los siguientes aspectos:
 1. Recomendamos emplear un máximo de **3 (tres) horas** y enviar todo lo que puedas.
 2. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 3. **Antes de comenzar a programar:**
-    * Realizar un `Fork` de este repositorio (https://github.com/ORCAapplicants/backend-test).
+    * Realizar un `Fork` de este repositorio (https://github.com/ORCAapplicants/paracticante-habitat-test).
     * Clonar el fork a su máquina local  `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
     * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
 6. **Al finalizar**, existen 2 (dos) opciones para entregar su proyecto:
-    * 1) Realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [developer@gcpglobal.com](mailto:developer@gcpglobal.com).
-    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [developer@gcpglobal.com](mailto:developer@gcpglobal.com).
+    * 1) Realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [harriola@afphabitat.com.pe](mailto:harriola@afphabitat.com.pe).
+    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [harriola@afphabitat.com.pe](mailto:harriola@afphabitat.com.pe).
 
 ## EJERCICIOS
 
